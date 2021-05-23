@@ -1,0 +1,2 @@
+< if i have to  do regression testing or sanity testing i can create seperate testng xml file and execute it />
+< textng.xml files help in doing test runner, where we can execute all the test cases at once/>
